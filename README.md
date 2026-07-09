@@ -28,6 +28,7 @@
 | [docs/03-strategy-playbook.md](docs/03-strategy-playbook.md) | 전략 카탈로그 — 기존 전략 + 신규/응용 전략, 진입조건·임계값 |
 | [docs/04-risk-capital-ops.md](docs/04-risk-capital-ops.md) | 리스크 프레임워크, 자본배분, 운영, 컴플라이언스 |
 | [docs/05-roadmap.md](docs/05-roadmap.md) | 단계별 구축 로드맵 (Phase 0~4) |
+| [docs/06-skhynix-adr-arbitrage.md](docs/06-skhynix-adr-arbitrage.md) | SK하이닉스 ADR↔본주 아비트라지 봇 계획 (주식 확장) |
 
 ## 핵심 원칙
 
