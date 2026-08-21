@@ -28,6 +28,8 @@
 | [docs/03-strategy-playbook.md](docs/03-strategy-playbook.md) | 전략 카탈로그 — 기존 전략 + 신규/응용 전략, 진입조건·임계값 |
 | [docs/04-risk-capital-ops.md](docs/04-risk-capital-ops.md) | 리스크 프레임워크, 자본배분, 운영, 컴플라이언스 |
 | [docs/05-roadmap.md](docs/05-roadmap.md) | 단계별 구축 로드맵 (Phase 0~4) |
+| [docs/06-operator-profile.md](docs/06-operator-profile.md) | 실전 수익 구조 분석 → 우선순위 재조정 (2026-08) |
+| [docs/07-extended-inventory.md](docs/07-extended-inventory.md) | 확장 인벤토리 — 신규/비공개 레포 12개 분석 (KRX 베이시스·김프·상장 스나이퍼·라이브 갭봇) |
 
 ## 핵심 원칙
 
